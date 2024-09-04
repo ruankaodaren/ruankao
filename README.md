@@ -1,6 +1,8 @@
 # 软考达人 - 软考专业开源题库
 
-## 项目地址
+!(软考达人)(https://chaiding.oss-cn-beijing.aliyuncs.com/%E5%B0%81%E9%9D%A2%E5%9B%BE.png)
+
+## ✨项目地址
  - 1、PC端：https://ruankaodaren.com
  - 2、微信小程序：搜「软考达人」
 
@@ -11,7 +13,7 @@
  - 2、网络工程师知识库内容上线 ~ 进行中
  - 3、系统集成项目管理师第二版老题下架，上新第三版题 ~ 进行中
  - 4、信息系统监理师第二版题库上新 ~ 进行中
- - 等待各位同学[反馈](https://github.com/ruankaodaren/ruankao/issues/new)
+ -  提需求、反馈问题 [点我](https://github.com/ruankaodaren/ruankao/issues/new)
 
 #### 2024年8月
  - 1、做题数据统计『时间统计』、『做题统计』功能上线
