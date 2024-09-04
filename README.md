@@ -1,6 +1,6 @@
 # 软考达人 - 软考专业开源题库
 
-!(软考达人)(https://chaiding.oss-cn-beijing.aliyuncs.com/%E5%B0%81%E9%9D%A2%E5%9B%BE.png)
+![软考达人](https://chaiding.oss-cn-beijing.aliyuncs.com/%E5%B0%81%E9%9D%A2%E5%9B%BE.png)
 
 ## ✨项目地址
  - 1、PC端：https://ruankaodaren.com
