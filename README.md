@@ -1,5 +1,11 @@
-![软考达人](https://chaiding.oss-cn-beijing.aliyuncs.com/%E5%B0%81%E9%9D%A2%E5%9B%BE.png)
+<div align="center">
+    <img src="https://chaiding.oss-cn-beijing.aliyuncs.com/%E5%B0%81%E9%9D%A2%E5%9B%BE.png" alt="软考达人" display="inline" />
+</div>
 
+<p align= 'center'>
+  <a href="https://gitee.com/ruankaodaren/ruankao"><img src="https://gitee.com/ruankaodaren/ruankao/badge/star.svg" alt="码云仓库"/>
+  <a href="https://github.com/ruankaodaren/ruankao"><img src="https://img.shields.io/github/stars/ruankaodaren/ruankao.svg?style=social" alt="码云仓库"/>
+</p>
 ## ✨项目地址
  - 1、PC端：https://ruankaodaren.com
  - 2、微信小程序：搜「软考达人」
