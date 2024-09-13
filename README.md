@@ -19,12 +19,17 @@
  - 1、通过issue中采纳，并反馈开发进度
  - 2、做最好的软考题库，需要你的意见，[提需求点我](https://github.com/ruankaodaren/ruankao/issues/new)
 
+#### 2024年10月
+ - 1、增加“按关键字组卷”功能，来自与[jinhaoxia](https://github.com/jinhaoxia)同学反馈  ~ 排期中
+
+
 #### 2024年9月
  - 1、重新拉“学习群” ~ 进行中
  - 2、网络工程师知识库内容上线 ~ 进行中
  - 3、系统集成项目管理师第二版老题下架，上新第三版题 ~ 进行中
  - 4、信息系统监理师第二版题库上新 ~ 进行中
- - 5、题目增加“年份”来源标示，来自与[zhihancn](https://github.com/zhihancn)同学反馈  ~ 排期中
+ - 5、题目增加“年份”来源标示，来自与[zhihancn](https://github.com/zhihancn)同学反馈  ~ 研发中
+ - 6、隐藏左侧答题卡，来自与[tongjiann](https://github.com/tongjiann)同学反馈  ~ 研发中
  -  提需求、反馈问题 [点我](https://github.com/ruankaodaren/ruankao/issues/new)
 
 #### 2024年8月
