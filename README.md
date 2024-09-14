@@ -28,8 +28,8 @@
  - 2、网络工程师知识库内容上线 ~ 进行中
  - 3、系统集成项目管理师第二版老题下架，上新第三版题 ~ 进行中
  - 4、信息系统监理师第二版题库上新 ~ 进行中
- - 5、题目增加“年份”来源标示，来自与[zhihancn](https://github.com/zhihancn)同学反馈  ~ 研发中
- - 6、隐藏左侧答题卡，来自与[tongjiann](https://github.com/tongjiann)同学反馈  ~ 研发中
+ - 5、题目增加“年份”来源标示，来自与[zhihancn](https://github.com/zhihancn)同学反馈  ~ 已上线（24-09-14）
+ - 6、隐藏左侧答题卡，来自与[tongjiann](https://github.com/tongjiann)同学反馈  ~ 已上线（24-09-14）
  -  提需求、反馈问题 [点我](https://github.com/ruankaodaren/ruankao/issues/new)
 
 #### 2024年8月
